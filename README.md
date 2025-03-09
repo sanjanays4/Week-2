@@ -1,1 +1,7 @@
-# Week-2
+## Power BI-Driven Exhaustive Analysis of the Indian Agriculture Sector  
+
+India's agriculture sector plays a crucial role in the nation's economy, supporting millions of livelihoods and contributing significantly to GDP. Understanding its trends, challenges, and opportunities is essential for policymakers, researchers, and stakeholders. This project aims to develop a comprehensive and interactive Power BI dashboard that provides in-depth insights into the Indian agriculture sector using 19 years of historical data.  
+
+The project involves analyzing crop production trends, regional variations, and key performance indicators such as yield per hectare, production costs, and market prices. Predictive models are built to estimate minimum support prices (MSPs) based on historical data and current market conditions. The dashboard also highlights major contributing crops, states, and districts, enabling a data-driven understanding of agricultural patterns and economic impacts.  
+
+The project utilizes Power BI for data visualization and analysis, with CSV datasets as the primary data source. DAX is employed for advanced calculations, data sorting, and filtering. Various Power BI tools, including interactive charts, maps, and tables, enhance the dashboard’s usability. The final output allows users to explore trends dynamically, compare regional performance, and derive meaningful insights for decision-making in the Indian agriculture sector.
